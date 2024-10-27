@@ -27,4 +27,4 @@ def stocks():
     stocks = ['Apple', 'Microsoft']
     return render_template('stocks.html', stocks=stocks)
 
-#this is some changes to make it grab new comments from the user
+#this is some changes to make it grab new comments from the users
